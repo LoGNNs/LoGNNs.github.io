@@ -22,6 +22,7 @@ The seminar brings together researchers and students interested in understanding
 | Date | Speaker | Title | Affiliation |
 |---|---|---|---|
 | 2025-05-21, 15:30 UK time | Przemysław Wałęga | Basics of Preservation Theorems | Queen Mary University of London |
+| 2025-06-04, 15:30 UK time | Przemysław Wałęga | Preservation Theorems in Finite Models| Queen Mary University of London |
 
 
 ---
