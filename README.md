@@ -21,9 +21,9 @@ The seminar brings together researchers and students interested in understanding
 
 | Date | Speaker | Title | Affiliation |
 |---|---|---|---|
-| 2025-05-21, 15:30 UK time | Przemysław Wałęga | Basics of Preservation Theorems | Queen Mary University of London |
-| 2025-06-04, 15:30 UK time | Przemysław Wałęga | Preservation Theorems in Finite Models| Queen Mary University of London |
-
+| 21/05/2026, 15:30-17:00 UK time | Przemysław Wałęga | Basics of Preservation and Łoś-Tarski Theorem | Queen Mary University of London |
+| 04/06/2026, 15:30-17:00 UK time | Przemysław Wałęga | Preservation Theorems in Finite | Queen Mary University of London |
+| 18/06/2026, 15:30-17:00 UK time | Przemysław Wałęga | Preservation Theorems for Graph Neural Networks | Queen Mary University of London |
 
 ---
 
