@@ -27,6 +27,18 @@ The seminar brings together researchers and students interested in understanding
 
 ---
 
+# Organization
+This  Seminar is a part of the [“Formal Methods and AI” theme](https://www.seresearch.qmul.ac.uk/cfcs/research/) of the Centre for Fundamentals of AI and Computational Theory at the Queen Mary University of London.
+
+### Organizers
+- Przemysław Wałęga (lead)
+- Eva Feng
+- Alexander Rinsche
+- Stanislaw Hauke
+- Xiaxia Wang
+
+---
+
 # Contact
 
-Interested in joining? Contact us under 📧 [lognn.seminars@gmail.com](mailto:lognn.seminars@gmail.com)
+Interested in joining? Contact us under 📧 [lognn.seminars@gmail.com](mailto:lognn.seminars@gmail.com) or sign up to our [mailing list](https://groups.google.com/u/2/g/logic-gnn-seminar)!
